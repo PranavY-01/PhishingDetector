@@ -1,0 +1,18 @@
+From: security@apple.com
+Return-Path: <fake@malicious-login.com>
+Reply-To: hacker@secure-apple-login.com
+To: user@domain.com
+Subject: [ALERT] Urgent: Your Apple ID is locked
+Date: Mon, 08 Jul 2025 15:20:00 +0000
+
+Dear Customer,
+
+Your Apple ID has been temporarily locked due to suspicious login attempts.
+
+Click the link below to restore access immediately:
+http://apple-login-verify-update.com/login
+
+Failure to act now will result in account deletion.
+
+Thank you,  
+Apple Support Team
